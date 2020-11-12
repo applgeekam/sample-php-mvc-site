@@ -1,0 +1,54 @@
+body,
+html,
+.main {
+    margin: 0;
+    padding: 0;
+    overflow-x: auto;
+}
+
+body,
+html,
+.header {
+    min-width: 90vw;
+    min-height: 100vh;
+}
+
+.header {
+    background-image: url('../../../bg.jpg');
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo img {
+    width: 200px;
+}
+
+.suite {
+    padding: 0 100px;
+    padding-top: 50px;
+}
+
+.suite .text {
+    font-weight: 900;
+    font-size: 1rem;
+    margin-bottom: 50px;
+}
+
+.suite .text h1 {
+    font-size: 70px;
+}
+
+.to-scroll button {
+    color: white;
+}
+
+.vente .card-group {
+    margin: 50px 0;
+}
+
+.vente .card {
+    margin: 0 30px;
+    border: unset !important;
+    text-align: center;
+}
