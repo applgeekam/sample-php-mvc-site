@@ -1,3 +1,5 @@
+Ebauche de site e-commerce en php. Utilisation du modele MVC
+
 Ce projet n'a aucune dependance.
 
 Pour l'utiliser, il faut :
